@@ -14,6 +14,12 @@ An AI-powered **medical diagnosis web application** that predicts diseases based
 
 ---
 
+## **Live Deployed Link**
+
+https://implementation-of-ai-powered-medical.onrender.com/
+
+---
+
 ## 🔹 **Tech Stack**
 
 - **Frontend:** Streamlit
