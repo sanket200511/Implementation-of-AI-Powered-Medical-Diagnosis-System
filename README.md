@@ -1,5 +1,7 @@
 # 🚀 **AI-Powered Medical Diagnosis System**
 
+**Live Deployed Link :- https://implementation-of-ai-powered-medical.onrender.com**
+
 ## 📌 **Overview**
 
 An AI-powered **medical diagnosis web application** that predicts diseases based on user-inputted symptoms. Built with **Streamlit** for an intuitive UI and **Python** for backend processing, this system leverages **machine learning models** such as **SVM, Logistic Regression, and Random Forest** to provide real-time, accurate predictions.
